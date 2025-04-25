@@ -5,6 +5,6 @@ You can find the full report here: [Report](https://complete-modem-da6.notion.si
 
 ## Lab Supporting Files
 
-- [Lab 9 Supporting File](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/Ernr6LynzDtDhwanATVXarEBFuQh2nBS_t3fg2JRfcIUJw?e=hk3A4z)
-- [Lab 9 Supporting File](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/Ernr6LynzDtDhwanATVXarEBFuQh2nBS_t3fg2JRfcIUJw?e=hk3A4z)
+- [Lab 11 Supporting File](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/Ernr6LynzDtDhwanATVXarEBFuQh2nBS_t3fg2JRfcIUJw?e=hk3A4z)
+- [Lab 12 Supporting File](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/Ernr6LynzDtDhwanATVXarEBFuQh2nBS_t3fg2JRfcIUJw?e=hk3A4z)
 
