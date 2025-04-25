@@ -6,6 +6,5 @@ You can find the full report here for Lab 11 and Lab 12: [Report]([https://compl
 - [Lab 11 Supporting File]([https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/ElWaKaGy13RLmcRt0-ZGnUIB2DeGOFbt7X9yMmg40PAuFA?e=tiaJKN](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/Ernr6LynzDtDhwanATVXarEB78PcyoM9kiLvOkkfr94wDg?e=rYdgN9))
 - [Lab 12 Supporting File]([https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/ElWaKaGy13RLmcRt0-ZGnUIB2DeGOFbt7X9yMmg40PAuFA?e=tiaJKN](https://iitgnacin-my.sharepoint.com/:f:/g/personal/22110217_iitgn_ac_in/Ernr6LynzDtDhwanATVXarEB78PcyoM9kiLvOkkfr94wDg?e=rYdgN9))
 
-
-
-                        - Ranit Biswas 22110217
+ 
+ - Ranit Biswas 22110217
